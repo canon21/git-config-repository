@@ -1,0 +1,13 @@
+#Application Config
+application:
+ listino: 2
+ sconto: 0
+
+#Actuator Info
+info:
+ assistenza: 
+  nome: "Tommaso Pirozzi"
+ nome:
+  nome-app: "Price Art Web Service"
+ profilo: "Listino 2 con sconto" 
+ 
